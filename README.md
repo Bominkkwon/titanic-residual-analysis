@@ -115,7 +115,7 @@ If you use this work, please cite:
 
 ## 🤝 Contributing
 
-This research was conducted independently. For questions or collaborations, please open an issue or contact [bominkkwon@proton.me](mailto:bominkkwon@proton.me).
+This research was conducted independently. For questions or collaborations, please open an issue or contact me.
 
 ## 📄 License
 
